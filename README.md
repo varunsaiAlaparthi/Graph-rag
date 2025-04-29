@@ -115,9 +115,6 @@ If you use this work in your research, please cite:
 }
 ```
 
-## 📝 License
-
-[Insert your preferred license here]
 
 ## 🤝 Acknowledgments
 
